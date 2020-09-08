@@ -30,3 +30,16 @@
 <p>Ecoleta is a marketplace of waste collection that can help people to find collection points efficiently, developed in partnership with 
 <a href="https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg">@Rocketseat</a>. In this application, you can register some "collect point", where you can tell us where is it, the country, state and even the city! You can put a picture of your entity, and tell what do you collect: lamps, batteries, paper or cardboard, electronic waste, organic waste or kitchen oil. This application had been developed in HTML, CSS and JavaScript and the dabatabase was Sqlite3</p>
 <br>
+
+## :mag_right: Getting Started
+
+To start the project you need to install NodeJS and Nodemon.
+
+### Installing
+
+```npm install```
+```npm install nodemon```
+
+### Run server: 
+
+```npm start```
